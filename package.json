@@ -1,0 +1,17 @@
+{
+  "name": "fb_vizual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad Seremet",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "vis": "^4.21.0"
+  }
+}
